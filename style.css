@@ -17,7 +17,7 @@ header h1 {
 }
 
 header p {
-  font-size: 20px;
+  font-size: 30px;
   margin-bottom: 20px;
 }
 
@@ -131,7 +131,7 @@ li {
 
 .card-3d {
   width: 350px;
-  height: 400px;
+  height: 350px; 
   background: #111;
   border-radius: 20px;
   box-shadow: 0 0 40px rgba(124, 58, 237, 0.4);
@@ -173,7 +173,7 @@ li {
 pre {
   color: #ccc;
   font-family: "Courier New", monospace;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .red {
